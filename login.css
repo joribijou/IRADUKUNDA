@@ -1,15 +1,20 @@
 
 .run{
     display: flex;
- 
-  width: 80%;
+  width: 30%;
   flex-direction: column;
-  justify-content: center;
-  /* align-items: center; */
-  padding: 2rem;
+  /* justify-content: center; */
+  padding: 3rem;
+  align-items: center;
     gap: 3rem;
-    margin:4rem;
+    /* margin:4rem; */
 }
+textarea{
+   padding: 1rem;
+    width: 100%;
+    background-color: silver;
+    font-size: 2rem;
+  }
 .long{
     font-size: 5rem;
 text-align: center;
