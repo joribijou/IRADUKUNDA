@@ -1,0 +1,25 @@
+.home{
+    background-color: gray;
+    text-align: center;
+}
+.groups{
+    flex-direction: column;
+ padding: .8rem;
+ justify-content: space-between;
+}
+.btn{
+    padding: 1rem 3rem;
+    border-radius: 2rem;
+}.home{
+    background-color: gray;
+    text-align: center;
+}
+.groups{
+    flex-direction: column;
+ padding: .8rem;
+ justify-content: space-between;
+}
+.btn{
+    padding: 1rem 3rem;
+    border-radius: 2rem;
+}
