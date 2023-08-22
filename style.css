@@ -6,6 +6,7 @@
 body{
     font-family: poppins sans-serif;
     background-color: rgb(41, 38, 38);  
+   
 } 
 .nav-container{
   padding: 0;
@@ -18,13 +19,16 @@ body{
   margin: 0;
   width: 100%; 
 }
+.group{
+  text-align: center;
+}
 p{
   font-size: 1rem;
  margin-top: 3rem;
  color: rgb(107, 104, 104);
 }
 .zwd-container{
-  font-size: 2rem;
+  font-size: 1.5rem;
   border-style: double;
   padding: 1rem;
   margin: 2rem;
@@ -149,3 +153,4 @@ p{
    width: 100%;
   } 
 } 
+
